@@ -15,15 +15,19 @@ DevOps for University Students
   proposal
 
 About me
-========
+--------
 
 - OSU Open Source Lab Director
 - Systems Admin background
-- Virtualization (Ganeti/KVM), cfengine, puppet, chef
+- Experienced in:
+
+  - Virtualization (Ganeti/KVM)
+  - cfengine, puppet, chef
+  - CentOS/Gentoo
 - Gentoo Developer
 
 Session Overview
-================
+----------------
 
 - Current Learning Environment
 - OSL Student Experience
@@ -43,6 +47,10 @@ Theory vs. Applied
   - Classwork rarely mimics real-world
   - Difficult to apply theory
 
+.. figure:: _static/xkcd-171-string-theory.png
+  :align: center
+  :scale: 90%
+
 Student Jobs
 ------------
 
@@ -51,6 +59,10 @@ Student Jobs
 - Limited roles and access
 - Limited availability 
 - No structure
+
+.. figure:: _static/osl-noc2.jpg
+  :align: center
+  :scale: 60%
 
 Insufficient Mentoring
 ----------------------
