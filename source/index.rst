@@ -45,6 +45,8 @@ Theory vs. Applied
 Student Jobs
 ------------
 
+*Finding experience on campus*
+
 - Limited roles and access
 - Limited availability 
 - No structure
@@ -80,7 +82,7 @@ OSL Overview
 OSL Student Experience
 ----------------------
 
-- Given full "root"
+- Given full *"root"*
 - Spend six months mentoring
 
   - Mix of full-timer and senior student mentorships
@@ -94,7 +96,7 @@ Scaling problem
 
 - Balancing FTE to Student ratios
 - A lot of time and resource is put in mentoring
-- Represent less than 1% of total CS population
+- Represent less than 1% of total OSU CS population
 - Budget constraints on hiring more students
 
 DevOps Bootcamp
@@ -158,6 +160,28 @@ Curriculum
 - Base infrastructure services for any organization (DNS, Email, etc)
 - Building a mock infrastructure for a mock company from top to bottom
 
+Topics discussed so far
+-----------------------
+
+- **The Basics:** Shell, file permissions, package management
+- Editors and git
+- Scripting & Troubleshooting
+- Services and deploying a web app
+- Boot process and filesystem hierarchy
+- Databases
+- Security & Authentication
+
+Building a mock infrastructure
+------------------------------
+
+- Build a breakable infrastructure
+
+  - Best to learn from real-world experience
+  - But not production (yet)
+- Basic services: DNS, Email, web, database, etc
+- Develop a basic webapp collaboratively
+- Use the cloud (i.e. OpenStack, AWS, etc)
+
 Feedback
 --------
 
@@ -187,6 +211,9 @@ Plans
 - Continue to build more content *(and tweak it)*
 - Work with EECS to integrate into the program
 - Include outside speakers from the industry
+- Include contributions from external sources
+
+  - Because, FOSS!
 
 Questions?
 ==========
@@ -196,6 +223,8 @@ Questions?
 :email: lance@osuosl.org
 :twitter: @ramereth @osuosl
 :blog: http://lancealbertson.com
+:devopsbootcamp: http://devopsbootcamp.osuosl.org
+:github: https://github.com/devopsbootcamp
 
 
 *Attribution-ShareAlike CC BY-SA*
