@@ -6,6 +6,8 @@ DevOps for University Students
 :email: lance@osuosl.org
 :twitter: @ramereth
 
+*Attribution-ShareAlike CC BY-SA*
+
 .. toctree::
   :hidden:
 
@@ -194,3 +196,6 @@ Questions?
 :email: lance@osuosl.org
 :twitter: @ramereth @osuosl
 :blog: http://lancealbertson.com
+
+
+*Attribution-ShareAlike CC BY-SA*
