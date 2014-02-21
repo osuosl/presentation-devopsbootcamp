@@ -31,6 +31,8 @@ About me
 Session Overview
 ----------------
 
+.. rst-class:: build
+
 - Current Learning Environment
 - OSL Student Experience
 - Devops Bootcamp
@@ -116,6 +118,8 @@ OSL Student Experience
 Scaling problem
 ---------------
 
+.. rst-class:: build
+
 - Balancing FTE to Student ratios
 - A lot of time and resource is put in mentoring
 - Represent less than 1% of total OSU CS population
@@ -149,6 +153,8 @@ Making it work for the OSL and OSU .. and DevOps Bootcamp was born!
 
 **Goals:**
 
+.. rst-class:: build
+
 - Teach basic system administration skills
 - Introduce FOSS development
 - Publicize all the content
@@ -175,6 +181,8 @@ Program Structure
 
 Tools
 -----
+
+.. rst-class:: build
 
 - Vagrant
 
@@ -203,6 +211,8 @@ Curriculum
 
 Topics discussed so far
 -----------------------
+
+.. rst-class:: build
 
 - **The Basics:** Shell, file permissions, package management
 - Editors and git
