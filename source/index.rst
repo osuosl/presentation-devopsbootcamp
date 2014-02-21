@@ -19,11 +19,13 @@ About me
 
 - OSU Open Source Lab Director
 - Systems Admin background
+- Been at OSL since 2007
 - Experienced in:
 
   - Virtualization (Ganeti/KVM)
   - cfengine, puppet, chef
   - CentOS/Gentoo
+  - Mentoring students
 - Gentoo Developer
 
 Session Overview
@@ -145,18 +147,12 @@ Adapt PSU's Braindump
 
 Making it work for the OSL and OSU .. and DevOps Bootcamp was born!
 
+**Goals:**
+
+- Teach basic system administration skills
 - Introduce FOSS development
 - Publicize all the content
 - Eventually integrate into EECS program
-
-DOBC Meeting
-------------
-
-|
-
-.. figure:: _static/dobc.jpg
-  :align: center
-  :scale: 100%
 
 Program Structure
 -----------------
@@ -167,13 +163,22 @@ Program Structure
 - Both lecture and hands on
 - Communication
 
+.. figure:: _static/dobc.jpg
+  :align: right
+  :scale: 60%
+
+..
+
   - Mailing list
   - IRC
+  - LUG
 
 Tools
 -----
 
 - Vagrant
+
+  - CentOS/Debian VMs
 - Github
 - Sphinx-doc and Read The Docs
 
@@ -186,8 +191,15 @@ Curriculum
 - Linux Basics
 - Basic System Administration
 - Basic FOSS Development Methodologies
-- Base infrastructure services for any organization (DNS, Email, etc)
+- Base infrastructure services for any organization
+  
+  - DNS, Email, web server, database servers, etc
 - Building a mock infrastructure for a mock company from top to bottom
+- Content based from `CS312 Sysadmin class`_
+  
+  - *last taught in 2009*
+
+.. _CS312 Sysadmin class: http://osuosl.org/students/cs312
 
 Topics discussed so far
 -----------------------
@@ -200,6 +212,10 @@ Topics discussed so far
 - Databases
 - Security & Authentication
 
+.. figure:: _static/xkcd_838.png
+  :align: center 
+  :scale: 60%
+
 Building a mock infrastructure
 ------------------------------
 
@@ -207,8 +223,11 @@ Building a mock infrastructure
 
   - Best to learn from real-world experience
   - But not production (yet)
-- Basic services: DNS, Email, web, database, etc
+- Basic services:
+  
+  - DNS, Email, web, database, etc
 - Develop a basic webapp collaboratively
+- Utilize configuration management (puppet / chef)
 - Use the cloud (i.e. OpenStack, AWS, etc)
 
 Feedback
@@ -222,10 +241,6 @@ Feedback
 - Vagrant and Virtualbox can be a PITA
 - Recording using Google Hangouts is great (but buggy)
 - Having everything in git is awesome
-
-Feedback (con't)
-----------------
-
 - It takes a long time to make content
 - We started way too late
 - Learn to be flexible
@@ -238,7 +253,9 @@ Next Steps
 Plans
 -----
 - Continue to build more content *(and tweak it)*
-- Work with EECS to integrate into the program
+- Develop new curriculum in EECS program
+
+  - Create a side track focused on DevOps
 - Include outside speakers from the industry
 - Include contributions from external sources
 
