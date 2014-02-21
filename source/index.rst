@@ -2,11 +2,12 @@ DevOps for University Students
 ==============================
 
 :author: Lance Albertson
+:title: Director / Sysadmin
 :company: OSU Open Source Lab
 :email: lance@osuosl.org
 :twitter: @ramereth
 
-*Attribution-ShareAlike CC BY-SA*
+*Attribution-ShareAlike CC BY-SA ©2014*
 
 .. toctree::
   :hidden:
@@ -79,6 +80,13 @@ OSL Overview
 - Development focused on supporting hosting
 - Media communications team
 
+OSL NOC
+-------
+
+.. figure:: _static/osl-noc.jpg
+  :align: center
+  :scale: 80%
+
 OSL Student Experience
 ----------------------
 
@@ -128,6 +136,15 @@ Making it work for the OSL and OSU .. and DevOps Bootcamp was born!
 - Introduce FOSS development
 - Publicize all the content
 - Eventually integrate into EECS program
+
+DOBC Meeting
+------------
+
+|
+
+.. figure:: _static/dobc.jpg
+  :align: center
+  :scale: 100%
 
 Program Structure
 -----------------
@@ -227,4 +244,4 @@ Questions?
 :github: https://github.com/devopsbootcamp
 
 
-*Attribution-ShareAlike CC BY-SA*
+*Attribution-ShareAlike CC BY-SA ©2014*
