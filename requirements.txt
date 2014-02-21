@@ -1,0 +1,10 @@
+Jinja2==2.7.2
+MarkupSafe==0.18
+Pillow==2.3.0
+Pygments==1.6
+Sphinx==1.2.1
+argparse==1.2.1
+docutils==0.11
+hieroglyph==0.6
+six==1.5.2
+wsgiref==0.1.2
