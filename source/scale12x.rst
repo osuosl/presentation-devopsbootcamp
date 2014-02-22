@@ -13,7 +13,6 @@ DevOps for University Students
   :hidden:
 
   proposal
-  scale12x
 
 About me
 --------
