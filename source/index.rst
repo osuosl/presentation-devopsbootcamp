@@ -147,6 +147,8 @@ Portland State *"Braindump"*
 
   - Starts out with 60+ end up with ~10 solid recruits
 
+http://braindump.cat.pdx.edu
+
 Adapt PSU's Braindump
 ---------------------
 
@@ -158,23 +160,27 @@ Making it work for the OSL and OSU .. and DevOps Bootcamp was born!
 
 - Teach basic system administration skills
 - Introduce FOSS development
-- Publicize all the content
-- Eventually integrate into EECS program
+- Introduce Devops philosophy
+- Publicize all the content (Creative Commons, yay!)
+- Eventually integrate into OSU EECS program
+- Make it easy for anyone to attend and contribute
 
 Program Structure
 -----------------
 
 - Weekly meet ups about a specific topic
 - Weekly content planning meetings
-- Simple *homework* each week
-- Both lecture and hands on
-- Communication
+- Simple *exercises* each week
+- Combined lecture and hands on
+- Driven by both OSL Staff and students
 
 .. figure:: _static/dobc.jpg
   :align: right
   :scale: 60%
 
 ..
+
+- Communication
 
   - Mailing list
   - IRC
@@ -189,10 +195,15 @@ Tools
 
   - CentOS/Debian VMs
 - Github
+
+  - Exercises, example applications & scripts
 - Sphinx-doc and Read The Docs
 
   - Hieroglyph for slides
 - Google Hangouts Live (for recording)
+- OpenStack
+
+  - *Implementation a work in progress*
 
 Curriculum
 ----------
@@ -221,7 +232,7 @@ Topics discussed so far
 - Services and deploying a web app
 - Boot process and filesystem hierarchy
 - Databases
-- Security & Authentication
+- Security & Authentication, Networking
 
 .. figure:: _static/xkcd_838.png
   :align: center 
@@ -240,6 +251,7 @@ Building a mock infrastructure
 - Develop a basic webapp collaboratively
 - Utilize configuration management (puppet / chef)
 - Use the cloud (i.e. OpenStack, AWS, etc)
+- *This is still a work in progress...*
 
 Feedback
 --------
@@ -255,7 +267,7 @@ Feedback
 - It takes a long time to make content
 - We started way too late
 - Learn to be flexible
-- K.I.S.S.
+- K.I.S.S. (Keep It Simple Stupid)
 
 Next Steps
 ==========
@@ -264,13 +276,14 @@ Next Steps
 Plans
 -----
 - Continue to build more content *(and tweak it)*
-- Develop new curriculum in EECS program
-
-  - Create a side track focused on DevOps
 - Include outside speakers from the industry
 - Include contributions from external sources
 
   - Because, FOSS!
+- Develop new curriculum in EECS program
+
+  - Create a side track focused on DevOps
+
 
 Questions?
 ==========
