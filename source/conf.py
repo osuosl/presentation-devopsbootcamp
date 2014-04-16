@@ -274,6 +274,8 @@ extensions += [
 slide_theme = 'single-level'
 #slide_levels = 3
 
+slide_footer = "DevOps for University Students | Lance Albertson | lance @ osuosl.org | @ramereth"
+
 # Place custom static assets in the _static directory and uncomment
 # the following lines to include them
 

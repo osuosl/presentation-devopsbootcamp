@@ -5,6 +5,6 @@ Pygments==1.6
 Sphinx==1.2.1
 argparse==1.2.1
 docutils==0.11
-hieroglyph==0.6
+hieroglyph==0.6.5
 six==1.5.2
 wsgiref==0.1.2
