@@ -2,7 +2,7 @@ DevOps for University Students
 ==============================
 
 :author: Lance Albertson
-:title: Director / Sysadmin
+:title: Director / Sysadmin / Cat Herder
 :company: OSU Open Source Lab
 :email: lance@osuosl.org
 :twitter: @ramereth
@@ -272,9 +272,9 @@ Feedback
 Next Steps
 ==========
 
-
 Plans
 -----
+
 - Continue to build more content *(and tweak it)*
 - Include outside speakers from the industry
 - Include contributions from external sources
@@ -283,7 +283,6 @@ Plans
 - Develop new curriculum in EECS program
 
   - Create a side track focused on DevOps
-
 
 Questions?
 ==========
