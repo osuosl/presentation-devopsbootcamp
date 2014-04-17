@@ -67,7 +67,7 @@ Student Jobs
 
 .. figure:: _static/osl-noc2.jpg
   :align: center
-  :scale: 60%
+  :scale: 55%
 
 Insufficient Mentoring
 ----------------------
@@ -78,6 +78,7 @@ Insufficient Mentoring
 
   - Need a place for advanced students to excel more
   - Also need an environment for *"newbies"*
+- Limited qualified staff with time to mentor
 
 OSL Student Experience
 ======================
@@ -123,8 +124,9 @@ Scaling problem
 
 - Balancing FTE to Student ratios
 - A lot of time and resource is put in mentoring
-- Represent less than 1% of total OSU CS population
+- OSL Students represent less than 1% of OSU CS population
 - Budget constraints on hiring more students
+- Only so much work to be done
 
 DevOps Bootcamp
 ===============
@@ -197,10 +199,11 @@ Tools
 - Github
 
   - Exercises, example applications & scripts
+  - https://github.com/devopsbootcamp
 - Sphinx-doc and Read The Docs
 
   - Hieroglyph for slides
-- Google Hangouts Live (for recording)
+- Google Hangouts Live (screen shot recording)
 - OpenStack
 
   - *Implementation a work in progress*
@@ -215,6 +218,7 @@ Curriculum
   
   - DNS, Email, web server, database servers, etc
 - Building a mock infrastructure for a mock company from top to bottom
+- Introduce configuration management
 - Content based from `CS312 Sysadmin class`_
   
   - *last taught in 2009*
@@ -236,7 +240,7 @@ Topics discussed so far
 
 .. figure:: _static/xkcd_838.png
   :align: center 
-  :scale: 60%
+  :scale: 55%
 
 Building a mock infrastructure
 ------------------------------
@@ -253,13 +257,28 @@ Building a mock infrastructure
 - Use the cloud (i.e. OpenStack, AWS, etc)
 - *This is still a work in progress...*
 
+Learning from breaking
+----------------------
+
+- How did we learn these skills ourselves?
+
+  - Self learning!
+  - Support community (LUG, friends, mentors, etc)
+- Mock infrastructure gives them a safe place to *play*
+- Preconfigured by us, but then modified by them
+- Introduce troubleshooting via breakage
+
+.. figure:: _static/xkcd_705.png
+  :align: center
+  :scale: 80%
+
+
 Feedback
 --------
 
 - Attendance
 
-  - First meeting: 34
-  - Other meetings: 10-20
+  - First meeting: 34 | Other meetings: 10-20
 - Format seems to work
 - Vagrant and Virtualbox can be a PITA
 - Recording using Google Hangouts is great (but buggy)
@@ -283,6 +302,7 @@ Plans
 - Develop new curriculum in EECS program
 
   - Create a side track focused on DevOps
+- Expand beyond OSU to other Universities
 
 Questions?
 ==========
