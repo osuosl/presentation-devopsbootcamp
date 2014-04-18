@@ -13,6 +13,7 @@ DevOps for University Students
   :hidden:
 
   proposal
+  proposal_osbridge
   scale12x
 
 About me
