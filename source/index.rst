@@ -15,6 +15,8 @@ DevOps for University Students
   proposal
   proposal_osbridge
   scale12x
+  chefconf2014
+  linuxfestnorthwest2014
 
 About Us 
 --------

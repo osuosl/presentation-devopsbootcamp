@@ -47,7 +47,7 @@ Teaching DevOps to University Students
 
         I happily sysadminned for that year and the next summer before some
         major transitions...
-         ~20 students, 4 full-timers in 2014
+        ~20 students, 4 full-timers in 2014
 
 .. slide::
 
@@ -223,6 +223,7 @@ Teaching DevOps to University Students
         :scale: 30%
 
     .. note:: Time management is hard for everybody. To help...
+
         * students: Have clear expectations and send appropriate reminder
           emails
         * Presenters: Communicate about when to remind of talk, schedule early
@@ -239,12 +240,15 @@ Teaching DevOps to University Students
     .. note:: We've done 10 lessons so far through the year. 
         * Several hands-on review/catchup days
         * All students have VM running an app that they can hack on
+
             * text editor
             * git
             * databases, networking, how servers boot, filesystems,
               configuration
+
         * 1/2 to 2/3 have dropped since start, several new have joined through
           the year
+
             * Each lesson builds on the next, and student is better off in
               tech-related career for having been exposed to each set of
               concepts
@@ -257,6 +261,7 @@ Teaching DevOps to University Students
         :align: center
 
     .. note:: Other results
+
         * good press
         * great resume thing
         * improved confidence and skills for speakers
@@ -265,6 +270,7 @@ Teaching DevOps to University Students
         * continued interest from students, especially new students joining,
           is almost a problem
         * Preparing to run it again next year
+
             * passing the torch, documenting everything
 
 .. slide:: 
