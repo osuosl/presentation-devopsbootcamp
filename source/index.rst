@@ -194,8 +194,10 @@ Free Online Classes
 - Need lots of time and specific learning style
 
 - OpsSchool
+
    - Tends to be sysadmin-focused
-        - Very old-school
+
+    - Very old-school
     - Ops equivalent of CS MOOCs
 - MIT OpenCourseWare
 - Coursera
