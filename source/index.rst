@@ -16,8 +16,10 @@ DevOps for University Students
   proposal_osbridge
   scale12x
 
-About me
+About Us 
 --------
+
+Lance
 
 - OSU Open Source Lab Director
 - Systems Admin background
@@ -30,8 +32,16 @@ About me
   - Mentoring students
 - Gentoo Developer
 
+Emily
+
+- OSL student since 2011
+- Urban Airship ops intern this summer
+- 
+
 Session Overview
 ----------------
+
+.. note:: Lance?
 
 .. rst-class:: build
 
@@ -43,10 +53,14 @@ Session Overview
 Current Learning Environment
 ============================
 
+.. note:: picture of a dragon? perhaps the Dragon Book?
+
 There be dragons!
 
 Theory vs. Applied
 ------------------
+
+.. note:: Emily & discuss own experience with how OSU teaches CS?
 
 - More focus on theory than applied
 
@@ -59,6 +73,10 @@ Theory vs. Applied
 
 Student Jobs
 ------------
+
+.. note:: Emily 
+    Also, more students TA than get to work at OSL/Helpdesk/BSG... this does
+    *not* teach good software development, or any sysadminning
 
 *Finding experience on campus*
 
@@ -73,6 +91,8 @@ Student Jobs
 Insufficient Mentoring
 ----------------------
 
+.. note:: Lance
+
 - No dedicated staff/faculty
 - LUG's help, but not the solution 
 - No centralized program
@@ -84,10 +104,14 @@ Insufficient Mentoring
 OSL Student Experience
 ======================
 
+.. note:: Picture of OSL logo or something?
+
 Giving students real-world experience and mentorship
 
 OSL Overview
 ------------
+
+.. note:: Lance
 
 - Provide hosting for FOSS projects
 - Services we provide
@@ -109,6 +133,8 @@ OSL NOC
 OSL Student Experience
 ----------------------
 
+.. note:: Emily on own experience with how it's awesome
+
 - Given full *"root"*
 - Spend six months mentoring
 
@@ -121,6 +147,8 @@ OSL Student Experience
 Scaling problem
 ---------------
 
+.. note:: Lance
+
 .. rst-class:: build
 
 - Balancing FTE to Student ratios
@@ -132,12 +160,17 @@ Scaling problem
 DevOps Bootcamp
 ===============
 
+.. note:: picture of something on this slide, and speaker notes on topic
+    transition
+
 Expanding DevOps beyond the OSL...
 
 http://devopsbootcamp.osuosl.org
 
 Portland State *"Braindump"*
 ----------------------------
+
+.. note:: Lance
 
 - Weekly meet up to teach being sysadmin
 - In-depth teaching on specific topics (DNS, Apache, etc)
@@ -152,8 +185,27 @@ Portland State *"Braindump"*
 
 http://braindump.cat.pdx.edu
 
+Free Online Classes
+-------------------
+
+.. note:: Emily?
+
+- Designed to be completely self-directed
+- Need lots of time and specific learning style
+
+- OpsSchool
+   - Tends to be sysadmin-focused
+        - Very old-school
+    - Ops equivalent of CS MOOCs
+- MIT OpenCourseWare
+- Coursera
+- edx.org
+
+
 Adapt PSU's Braindump
 ---------------------
+
+.. note:: Lance
 
 Making it work for the OSL and OSU .. and DevOps Bootcamp was born!
 
@@ -170,6 +222,8 @@ Making it work for the OSL and OSU .. and DevOps Bootcamp was born!
 
 Program Structure
 -----------------
+
+.. note:: Emily?
 
 - Weekly meet ups about a specific topic
 - Weekly content planning meetings
@@ -192,6 +246,8 @@ Program Structure
 Tools
 -----
 
+.. note:: Lance, with why we chose each
+
 .. rst-class:: build
 
 - Vagrant
@@ -212,6 +268,8 @@ Tools
 Curriculum
 ----------
 
+.. note:: Who?
+
 - Linux Basics
 - Basic System Administration
 - Basic FOSS Development Methodologies
@@ -228,6 +286,8 @@ Curriculum
 
 Topics discussed so far
 -----------------------
+
+.. note:: Re-title this slide. Also, who?
 
 .. rst-class:: build
 
@@ -261,6 +321,14 @@ Building a mock infrastructure
 Learning from breaking
 ----------------------
 
+.. note:: Emily: Yes most of us are self-taught but I've noticed that things
+    I've learned from others via mentorship are much easier to teach in
+    person. Also, on the diversity note, having a *safe* place to play is
+    extremely important because when someone's dealing with the issues that
+    plague minorities in tech (tokenism, impostor syndrome, etc.) there are a
+    lot more factors telling you "no don't risk breaking that, even if you
+    might learn something" than there would be for a non-minority.
+
 - How did we learn these skills ourselves?
 
   - Self learning!
@@ -277,6 +345,8 @@ Learning from breaking
 Feedback
 --------
 
+.. note:: Lance?
+
 - Attendance
 
   - First meeting: 34 | Other meetings: 10-20
@@ -289,8 +359,33 @@ Feedback
 - Learn to be flexible
 - K.I.S.S. (Keep It Simple Stupid)
 
+Advice to myself a year ago
+---------------------------
+
+.. note:: Emily. Also this slide needs a better title. And has too many words.
+
+- This sounds great, you want to start something like this?
+- DO IT! 
+    - Even if you're not sure.
+    - Even if you don't know all the things yet.
+    - You'll learn fast.
+- Resources are everywhere
+    - Anyone who says they think it's cool
+    - Offer bite-sized ways to contribute
+        - Speak for 15 minutes on your specialty? 
+        - vs. be on a curriculum committee forever
+- Time management
+    - You're a sysadmin; automate yourself out of a job
+    - Calendar reminders for recurring tasks
+    - You wouldn't rewrite the same code; planning and bureaucratic overhead
+      are also reusable
+- Skills can be taught; enthusiasm can't.
+
 Next Steps
 ==========
+
+.. note:: Lance. Also this should be one slide, or have a picture on the 'next
+    steps' one
 
 Plans
 -----
@@ -308,6 +403,9 @@ Plans
 Questions?
 ==========
 
+.. note:: E should figure out how to make this slide two-column or something
+    also, UA or OSL? 
+
 :name: Lance Albertson
 :company: OSU Open Source Lab
 :email: lance@osuosl.org
@@ -316,5 +414,9 @@ Questions?
 :devopsbootcamp: http://devopsbootcamp.osuosl.org
 :github: https://github.com/devopsbootcamp
 
+:name: Emily Dunham
+:company: Urban Airship
+:email: edunham@osuosl.org
+:github: https://github.com/edunham
 
 *Attribution-ShareAlike CC BY-SA ©2014*
