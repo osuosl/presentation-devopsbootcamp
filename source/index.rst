@@ -1,11 +1,11 @@
 DevOps for University Students
 ==============================
 
-:author: Lance Albertson
-:title: Director / Sysadmin / Cat Herder
+:authors: Lance Albertson, Emily Dunham
+:title: Director, Student Systems Engineer
 :company: OSU Open Source Lab
-:email: lance@osuosl.org
-:twitter: @ramereth
+:email: lance@osuosl.org, edunham@osuosl.org
+:twitter: @ramereth, n/a
 
 *Attribution-ShareAlike CC BY-SA ©2014*
 
@@ -26,24 +26,17 @@ Lance
 - OSU Open Source Lab Director
 - Systems Admin background
 - Been at OSL since 2007
-- Experienced in:
-
-  - Virtualization (Ganeti/KVM)
-  - cfengine, puppet, chef
-  - CentOS/Gentoo
-  - Mentoring students
 - Gentoo Developer
 
 Emily
 
 - OSL student since 2011
 - Urban Airship ops intern this summer
-- 
 
 Session Overview
 ----------------
 
-.. note:: Lance?
+.. note:: Lance
 
 .. rst-class:: build
 
@@ -62,7 +55,7 @@ There be dragons!
 Theory vs. Applied
 ------------------
 
-.. note:: Emily & discuss own experience with how OSU teaches CS?
+.. note:: Emily & discuss own experience with how OSU teaches CS
 
 - More focus on theory than applied
 
@@ -76,14 +69,14 @@ Theory vs. Applied
 Student Jobs
 ------------
 
-.. note:: Emily 
+.. note:: Emily
     Also, more students TA than get to work at OSL/Helpdesk/BSG... this does
     *not* teach good software development, or any sysadminning
 
 *Finding experience on campus*
 
 - Limited roles and access
-- Limited availability 
+- Limited availability
 - No structure
 
 .. figure:: _static/osl-noc2.jpg
@@ -106,9 +99,10 @@ Insufficient Mentoring
 OSL Student Experience
 ======================
 
-.. note:: Picture of OSL logo or something?
-
 Giving students real-world experience and mentorship
+
+.. figure:: _static/osuosl-logo-round.png
+  :align: center
 
 OSL Overview
 ------------
@@ -190,7 +184,7 @@ http://braindump.cat.pdx.edu
 Free Online Classes
 -------------------
 
-.. note:: Emily?
+.. note:: Emily
 
 - Designed to be completely self-directed
 - Need lots of time and specific learning style
@@ -227,7 +221,7 @@ Making it work for the OSL and OSU .. and DevOps Bootcamp was born!
 Program Structure
 -----------------
 
-.. note:: Emily?
+.. note:: Emily
 
 - Weekly meet ups about a specific topic
 - Weekly content planning meetings
@@ -267,45 +261,74 @@ Tools
 - Google Hangouts Live (screen shot recording)
 - OpenStack
 
-  - *Implementation a work in progress*
+  - *Planned for next iteration of bootcamp*
 
-Curriculum
-----------
+Curriculum Topics
+-----------------
 
-.. note:: Who?
+.. note:: Lance
 
 - Linux Basics
 - Basic System Administration
 - Basic FOSS Development Methodologies
 - Base infrastructure services for any organization
-  
+
   - DNS, Email, web server, database servers, etc
 - Building a mock infrastructure for a mock company from top to bottom
 - Introduce configuration management
 - Content based from `CS312 Sysadmin class`_
-  
-  - *last taught in 2009*
+
+  - *Last taught in 2009, planned for Winter Term 2015*
 
 .. _CS312 Sysadmin class: http://osuosl.org/students/cs312
 
-Topics discussed so far
------------------------
+Lessons
+-------
 
-.. note:: Re-title this slide. Also, who?
+.. note:: Emily
 
-.. rst-class:: build
+.. : rst-class:: build
 
-- **The Basics:** Shell, file permissions, package management
-- Editors and git
-- Scripting & Troubleshooting
-- Services and deploying a web app
-- Boot process and filesystem hierarchy
-- Databases
-- Security & Authentication, Networking
+- :The Very Basics: Shell, Vagrant+Virtualbox setup, IRC 
+- :Single System Fundamentals:
+    File permissions, users, groups and package management
+- :Editors and Git: Vim, Emacs, and Git for version control
 
 .. figure:: _static/xkcd_838.png
   :align: center 
-  :scale: 55%
+  :scale: 70%
+
+Lessons (cont'd)
+----------------
+
+.. note:: Lance
+
+.. : rst-class:: build
+
+- :Scripting & Troubleshooting:
+    Python and Bash. Overview of troubleshooting / debugging skills.
+- :Services & Deploying a Web App:
+    Web application overview, frameworks, virtualenv, sample app (systemview)
+- :Boot Process & Filesystem Hierarchy:
+    Filesystems, mkfs, fsck, boot process, single user mode, init scripts
+- :Databases: SQL basics, mysql, databases in web apps, hands on
+
+Lessons (cont'd)
+----------------
+
+.. note:: Lance
+
+.. : rst-class:: build
+
+- :Security & Authentication:
+    basics, system security, attack types, cryptos, MTM, code injection
+- :Networking overview: OSI Model, IPv4, netmasks
+- :DNS:
+    DNS Basics, records, relation to web app development
+- :Automation and DevOps: Config Management overview, devops history
+- :Configuration Management:
+    Basics, examples with puppet and chef, hands on with puppet
+- :Open Source: Joining a project, licenses, communities
 
 Building a mock infrastructure
 ------------------------------
@@ -315,7 +338,7 @@ Building a mock infrastructure
   - Best to learn from real-world experience
   - But not production (yet)
 - Basic services:
-  
+
   - DNS, Email, web, database, etc
 - Develop a basic webapp collaboratively
 - Utilize configuration management (puppet / chef)
@@ -349,7 +372,7 @@ Learning from breaking
 Feedback
 --------
 
-.. note:: Lance?
+.. note:: Lance
 
 - Attendance
 
@@ -363,22 +386,29 @@ Feedback
 - Learn to be flexible
 - K.I.S.S. (Keep It Simple Stupid)
 
-Advice to myself a year ago
----------------------------
+Lessons Learned
+---------------
 
 .. note:: Emily. Also this slide needs a better title. And has too many words.
 
 - This sounds great, you want to start something like this?
-- DO IT! 
+- DO IT!
     - Even if you're not sure.
     - Even if you don't know all the things yet.
     - You'll learn fast.
 - Resources are everywhere
+
     - Anyone who says they think it's cool
     - Offer bite-sized ways to contribute
-        - Speak for 15 minutes on your specialty? 
+
+        - Speak for 15 minutes on your specialty?
         - vs. be on a curriculum committee forever
+
+Lessons Learned
+---------------
+
 - Time management
+
     - You're a sysadmin; automate yourself out of a job
     - Calendar reminders for recurring tasks
     - You wouldn't rewrite the same code; planning and bureaucratic overhead
@@ -388,8 +418,7 @@ Advice to myself a year ago
 Next Steps
 ==========
 
-.. note:: Lance. Also this should be one slide, or have a picture on the 'next
-    steps' one
+.. note:: Lance. Add picture
 
 Plans
 -----
@@ -410,17 +439,11 @@ Questions?
 .. note:: E should figure out how to make this slide two-column or something
     also, UA or OSL? 
 
-:name: Lance Albertson
+:name: Lance Albertson, Emily Dunham
 :company: OSU Open Source Lab
-:email: lance@osuosl.org
+:email: lance@osuosl.org, edunham@osuosl.org
 :twitter: @ramereth @osuosl
-:blog: http://lancealbertson.com
 :devopsbootcamp: http://devopsbootcamp.osuosl.org
 :github: https://github.com/devopsbootcamp
-
-:name: Emily Dunham
-:company: Urban Airship
-:email: edunham@osuosl.org
-:github: https://github.com/edunham
 
 *Attribution-ShareAlike CC BY-SA ©2014*
