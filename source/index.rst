@@ -26,7 +26,6 @@ Lance
 - OSU Open Source Lab Director
 - Systems Admin background
 - Been at OSL since 2007
-- Gentoo Developer
 
 Emily
 
@@ -192,9 +191,8 @@ Free Online Classes
 - OpsSchool
 
    - Tends to be sysadmin-focused
-
-    - Very old-school
-    - Ops equivalent of CS MOOCs
+   - Very old-school
+   - Ops equivalent of CS MOOCs
 - MIT OpenCourseWare
 - Coursera
 - edx.org
@@ -274,7 +272,6 @@ Curriculum Topics
 - Base infrastructure services for any organization
 
   - DNS, Email, web server, database servers, etc
-- Building a mock infrastructure for a mock company from top to bottom
 - Introduce configuration management
 - Content based from `CS312 Sysadmin class`_
 
@@ -282,28 +279,49 @@ Curriculum Topics
 
 .. _CS312 Sysadmin class: http://osuosl.org/students/cs312
 
+Learning from breaking
+----------------------
+
+.. note:: Emily:
+
+  Yes most of us are self-taught but I've noticed that things I've learned from
+  others via mentorship are much easier to teach in person. Also, on the
+  diversity note, having a *safe* place to play is extremely important because
+  when someone's dealing with the issues that plague minorities in tech
+  (tokenism, impostor syndrome, etc.) there are a lot more factors telling you
+  "no don't risk breaking that, even if you might learn something" than there
+  would be for a non-minority.
+
+- How did we learn these skills ourselves?
+
+  - Self learning!
+  - Support community (LUG, friends, mentors, etc)
+- Access to a production-like environments ``==`` safe place to *play*
+- Preconfigured by us, but then modified by them
+- Introduce troubleshooting via breakage
+
+.. figure:: _static/xkcd_705.png
+  :align: center
+  :scale: 70%
+
 Lessons
 -------
 
 .. note:: Emily
 
-.. : rst-class:: build
-
-- :The Very Basics: Shell, Vagrant+Virtualbox setup, IRC 
+- :The Very Basics: Shell, Vagrant+Virtualbox setup, IRC
 - :Single System Fundamentals:
     File permissions, users, groups and package management
 - :Editors and Git: Vim, Emacs, and Git for version control
 
 .. figure:: _static/xkcd_838.png
-  :align: center 
+  :align: center
   :scale: 70%
 
-Lessons (cont'd)
-----------------
+Lessons
+-------
 
 .. note:: Lance
-
-.. : rst-class:: build
 
 - :Scripting & Troubleshooting:
     Python and Bash. Overview of troubleshooting / debugging skills.
@@ -311,63 +329,38 @@ Lessons (cont'd)
     Web application overview, frameworks, virtualenv, sample app (systemview)
 - :Boot Process & Filesystem Hierarchy:
     Filesystems, mkfs, fsck, boot process, single user mode, init scripts
-- :Databases: SQL basics, mysql, databases in web apps, hands on
+- :Databases:
+    SQL basics, mysql, databases in web apps, hands on
 
-Lessons (cont'd)
-----------------
+Lessons
+-------
 
 .. note:: Lance
 
-.. : rst-class:: build
-
 - :Security & Authentication:
-    basics, system security, attack types, cryptos, MTM, code injection
-- :Networking overview: OSI Model, IPv4, netmasks
+    Basics, system security, attack types, cryptos, MTM, code injection
+- :Networking overview:
+    OSI Model, IPv4, netmasks
 - :DNS:
     DNS Basics, records, relation to web app development
-- :Automation and DevOps: Config Management overview, devops history
+
+.. figure:: _static/xkcd_1121.png
+  :align: center
+  :scale: 70%
+
+Lessons
+-------
+
+- :Automation and DevOps:
+    Config Management overview, devops history
 - :Configuration Management:
     Basics, examples with puppet and chef, hands on with puppet
-- :Open Source: Joining a project, licenses, communities
+- :Open Source:
+    Joining a project, licenses, communities
 
-Building a mock infrastructure
-------------------------------
-
-- Build a breakable infrastructure
-
-  - Best to learn from real-world experience
-  - But not production (yet)
-- Basic services:
-
-  - DNS, Email, web, database, etc
-- Develop a basic webapp collaboratively
-- Utilize configuration management (puppet / chef)
-- Use the cloud (i.e. OpenStack, AWS, etc)
-- *This is still a work in progress...*
-
-Learning from breaking
-----------------------
-
-.. note:: Emily: Yes most of us are self-taught but I've noticed that things
-    I've learned from others via mentorship are much easier to teach in
-    person. Also, on the diversity note, having a *safe* place to play is
-    extremely important because when someone's dealing with the issues that
-    plague minorities in tech (tokenism, impostor syndrome, etc.) there are a
-    lot more factors telling you "no don't risk breaking that, even if you
-    might learn something" than there would be for a non-minority.
-
-- How did we learn these skills ourselves?
-
-  - Self learning!
-  - Support community (LUG, friends, mentors, etc)
-- Mock infrastructure gives them a safe place to *play*
-- Preconfigured by us, but then modified by them
-- Introduce troubleshooting via breakage
-
-.. figure:: _static/xkcd_705.png
+.. figure:: _static/xkcd_1172.png
   :align: center
-  :scale: 80%
-
+  :scale: 70%
 
 Feedback
 --------
@@ -379,30 +372,31 @@ Feedback
   - First meeting: 34 | Other meetings: 10-20
 - Format seems to work
 - Vagrant and Virtualbox can be a PITA
-- Recording using Google Hangouts is great (but buggy)
+- Recording using Google Hangouts is great *(but buggy)*
 - Having everything in git is awesome
 - It takes a long time to make content
-- We started way too late
+- We didn't cover everything we wanted
 - Learn to be flexible
 - K.I.S.S. (Keep It Simple Stupid)
 
-Lessons Learned
----------------
+Making your own DOBC
+--------------------
 
-.. note:: Emily. Also this slide needs a better title. And has too many words.
+.. note:: Emily
 
 - This sounds great, you want to start something like this?
 - DO IT!
-    - Even if you're not sure.
-    - Even if you don't know all the things yet.
-    - You'll learn fast.
+
+  - Even if you're not sure.
+  - Even if you don't know all the things yet.
+  - You'll learn fast.
 - Resources are everywhere
 
-    - Anyone who says they think it's cool
-    - Offer bite-sized ways to contribute
+  - Anyone who says they think it's cool
+- Offer bite-sized ways to contribute
 
-        - Speak for 15 minutes on your specialty?
-        - vs. be on a curriculum committee forever
+  - Speak for 15 minutes on your specialty?
+  - vs. be on a curriculum committee forever
 
 Lessons Learned
 ---------------
@@ -420,6 +414,21 @@ Next Steps
 
 .. note:: Lance. Add picture
 
+Building a mock infrastructure
+------------------------------
+
+- Build a breakable infrastructure
+
+  - Best to learn from real-world experience
+  - But not production (yet)
+- Basic services:
+
+  - DNS, Email, web, database, etc
+- Develop a basic webapp collaboratively
+- Utilize configuration management (puppet / chef)
+- Use the cloud (i.e. OpenStack, AWS, etc)
+- *Planning to implement this next year*
+
 Plans
 -----
 
@@ -435,9 +444,6 @@ Plans
 
 Questions?
 ==========
-
-.. note:: E should figure out how to make this slide two-column or something
-    also, UA or OSL? 
 
 :name: Lance Albertson, Emily Dunham
 :company: OSU Open Source Lab
