@@ -47,7 +47,16 @@ Session Overview
 Current Learning Environment
 ============================
 
-.. note:: picture of a dragon? perhaps the Dragon Book?
+.. figure:: _static/dragonbook.jpg
+    :align: center
+
+.. note:: "Purple dragon book b" by Derived from a digital capture
+    (photo/scan) of the book cover (creator of this digital version is irrelevant
+    as the copyright in all equivalent images is still held by the same party).
+    Copyright held by the publisher or the artist. Claimed as fair use
+    regardless.. Licensed under Fair use of copyrighted material in the context of
+    Dragon Book (computer science) via Wikipedia -
+    http://en.wikipedia.org/wiki/File:Purple_dragon_book_b.jpg#mediaviewer/File:Purple_dragon_book_b.jpg 
 
 There be dragons!
 
@@ -61,9 +70,13 @@ Theory vs. Applied
   - Classwork rarely mimics real-world
   - Difficult to apply theory
 
-.. figure:: _static/xkcd-171-string-theory.png
-  :align: center
-  :scale: 90%
+.. figure:: _static/lecture.jpg
+    :align: center
+    :scale: 50%
+
+.. note:: "Math lecture at TKK" by Tungsten - photo taken by Tungsten.
+    Licensed under Public domain via Wikimedia Commons -
+    http://commons.wikimedia.org/wiki/File:Math_lecture_at_TKK.JPG#mediaviewer/File:Math_lecture_at_TKK.JPG
 
 Student Jobs
 ------------
