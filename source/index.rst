@@ -47,26 +47,23 @@ Session Overview
 Current Learning Environment
 ----------------------------
 
+There be dragons!
+
 .. figure:: _static/dragonbook.jpg
-    :scale: 90%
+    :scale: 80%
     :align: center
 
-.. note:: "Purple dragon book b" by Derived from a digital capture
-    (photo/scan) of the book cover (creator of this digital version is irrelevant
-    as the copyright in all equivalent images is still held by the same party).
-    Copyright held by the publisher or the artist. Claimed as fair use
-    regardless.. Licensed under Fair use of copyrighted material in the context of
-    Dragon Book (computer science) via Wikipedia -
+.. note::
+    "Purple dragon book b" by Derived from a digital capture (photo/scan) of the
+    book cover (creator of this digital version is irrelevant as the copyright
+    in all equivalent images is still held by the same party).  Copyright held
+    by the publisher or the artist. Claimed as fair use regardless.. Licensed
+    under Fair use of copyrighted material in the context of Dragon Book
+    (computer science) via Wikipedia -
     http://en.wikipedia.org/wiki/File:Purple_dragon_book_b.jpg#mediaviewer/File:Purple_dragon_book_b.jpg 
-
-There be dragons!
 
 Theory vs. Applied
 ------------------
-
-.. figure:: _static/lecture.jpg
-    :align: center
-    :scale: 40%
 
 .. note:: Emily & discuss own experience with how OSU teaches CS
 
@@ -75,16 +72,17 @@ Theory vs. Applied
   - Classwork rarely mimics real-world
   - Difficult to apply theory
 
+
+.. figure:: _static/lecture.jpg
+    :align: center
+    :scale: 40%
+
 .. note:: "Math lecture at TKK" by Tungsten - photo taken by Tungsten.
     Licensed under Public domain via Wikimedia Commons -
     http://commons.wikimedia.org/wiki/File:Math_lecture_at_TKK.JPG#mediaviewer/File:Math_lecture_at_TKK.JPG
 
 Student Jobs
 ------------
-
-.. figure:: _static/waitress.jpg
-    :align: center
-    :scale: 50%
 
 .. note:: Emily
     Also, more students TA than get to work at OSL/Helpdesk/BSG... this does
@@ -103,14 +101,20 @@ Student Jobs
 - Limited availability
 - No structure
 
+.. figure:: _static/waitress.jpg
+    :align: center
+    :scale: 40%
+
 Insufficient Mentoring
 ----------------------
 
-.. figure:: _static/osl-noc2.jpg
-  :align: center
-  :scale: 55%
-
 .. note:: Lance
+
+|
+
+.. figure:: _static/osl-noc2.jpg
+  :align: right
+  :scale: 45%
 
 - No dedicated staff/faculty
 - LUG's help, but not the solution 
@@ -119,6 +123,7 @@ Insufficient Mentoring
   - Need a place for advanced students to excel more
   - Also need an environment for *"newbies"*
 - Limited qualified staff with time to mentor
+
 
 OSL Student Experience
 ======================
