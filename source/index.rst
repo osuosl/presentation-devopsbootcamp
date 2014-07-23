@@ -45,9 +45,10 @@ Session Overview
 - Next Steps
 
 Current Learning Environment
-============================
+----------------------------
 
 .. figure:: _static/dragonbook.jpg
+    :scale: 90%
     :align: center
 
 .. note:: "Purple dragon book b" by Derived from a digital capture
@@ -63,16 +64,16 @@ There be dragons!
 Theory vs. Applied
 ------------------
 
+.. figure:: _static/lecture.jpg
+    :align: center
+    :scale: 40%
+
 .. note:: Emily & discuss own experience with how OSU teaches CS
 
 - More focus on theory than applied
 
   - Classwork rarely mimics real-world
   - Difficult to apply theory
-
-.. figure:: _static/lecture.jpg
-    :align: center
-    :scale: 50%
 
 .. note:: "Math lecture at TKK" by Tungsten - photo taken by Tungsten.
     Licensed under Public domain via Wikimedia Commons -
@@ -81,9 +82,18 @@ Theory vs. Applied
 Student Jobs
 ------------
 
+.. figure:: _static/waitress.jpg
+    :align: center
+    :scale: 50%
+
 .. note:: Emily
     Also, more students TA than get to work at OSL/Helpdesk/BSG... this does
     *not* teach good software development, or any sysadminning
+
+.. note:: "Waitress taking an order" by photo taken by flickr user alan.light
+    - flickr. Licensed under Creative Commons Attribution 2.0 via Wikimedia
+      Commons -
+      http://commons.wikimedia.org/wiki/File:Waitress_taking_an_order.jpg#mediaviewer/File:Waitress_taking_an_order.jpg
 
 *Finding experience on campus*
 
@@ -91,12 +101,12 @@ Student Jobs
 - Limited availability
 - No structure
 
+Insufficient Mentoring
+----------------------
+
 .. figure:: _static/osl-noc2.jpg
   :align: center
   :scale: 55%
-
-Insufficient Mentoring
-----------------------
 
 .. note:: Lance
 
