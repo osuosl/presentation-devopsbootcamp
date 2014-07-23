@@ -5,7 +5,7 @@ DevOps for University Students
 :title: Director, Student Systems Engineer
 :company: OSU Open Source Lab
 :email: lance@osuosl.org, edunham@osuosl.org
-:twitter: @ramereth, n/a
+:twitter: @ramereth
 
 *Attribution-ShareAlike CC BY-SA ©2014*
 
