@@ -284,6 +284,8 @@ slide_footer = "DevOps for University Students | Lance Albertson, Emily Dunham  
 #     'custom_js': 'custom.js',
 # }
 
+slide_theme_options = { 'custom_js': 'ga.js' }
+
 # ----------------------------------------------
 
 
