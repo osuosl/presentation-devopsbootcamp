@@ -9,16 +9,6 @@ DevOps for University Students
 
 *Attribution-ShareAlike CC BY-SA ©2014*
 
-.. toctree::
-  :hidden:
-
-  chefconf2014
-  linuxfestnorthwest2014
-  oscon2014
-  proposal
-  proposal_osbridge
-  scale12x
-
 About Us 
 --------
 
