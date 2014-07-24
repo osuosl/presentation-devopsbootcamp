@@ -84,13 +84,20 @@ Theory vs. Applied
 Student Jobs
 ------------
 
+|
+
+.. note:: Emily
+    If you're lucky enough to get a job that's at all related to CS
+    it's probably HELPDESK or TEACHING ASSISTANT. 
+
+    Good for "plays well with others", "works hard", etc.
+
+    Not good for learning real sysadminning / development, or MENTORSHIP
+
 .. figure:: _static/waitress.jpg
     :align: right 
     :scale: 50%
 
-.. note:: Emily
-    Also, more students TA than get to work at OSL/Helpdesk/BSG... this does
-    *not* teach good software development, or any sysadminning
 
 .. note:: photo by Judy Baxter, https://www.flickr.com/photos/judybaxter/14999803/
 
@@ -99,10 +106,6 @@ Student Jobs
 - Limited roles and access
 - Limited availability
 - No structure
-
-.. figure:: _static/waitress.jpg
-    :align: center
-    :scale: 40%
 
 Insufficient Mentoring
 ----------------------
@@ -124,13 +127,15 @@ Insufficient Mentoring
 - Limited qualified staff with time to mentor
 
 
-OSL Student Experience
-======================
+OSL Student Involvement
+=======================
 
 Giving students real-world experience and mentorship
 
 .. figure:: _static/osuosl-logo-round.png
   :align: center
+
+.. note:: Lance
 
 OSL Overview
 ------------
@@ -154,10 +159,36 @@ OSL NOC
   :align: center
   :scale: 80%
 
+.. note:: Lance
+
 OSL Student Experience
 ----------------------
 
 .. note:: Emily on own experience with how it's awesome
+    
+    *The good:* work w/ best, most experienced peers as well as a few full
+    timers
+
+    Learn how to deal with customers of ALL levels of technical skill -- some
+    will walk you through patching a kernel, others will need to be walked
+    through using SSH
+
+    Deal with real-world scaling problems -- language barriers, time zones
+
+    Ops start on ticket queue then move onto special projects; devs work on
+    one of 3-4 dev team projects & are often project lead
+
+    *The... less good:* Extremely self-directed, extremely high level of
+    responsibility, things break REALLY BADLY if you do it wrong (could take
+    Apache Software Foundation down by incanting at the wrong PDU, for example)
+
+    These are all what we'd call good things but if you aren't ready yet they
+    can be overwhelming and stressful in a bad way. 
+
+    Also being surrounded by the best and brightest of your peers leads -- and
+    this is many people i've talked to, not just myself, to impostor syndrome
+    problems. we support each other, but still.
+
 
 - Given full *"root"*
 - Spend six months mentoring
@@ -211,6 +242,25 @@ Free Online Classes
 
 .. note:: Emily
 
+    When figuring out what to do for bootcamp we had to ask what needs we'd be
+    fulfilling that weren't already met by some awesome projects out there.
+
+    Evaluated the options -- lots for dev, only one outstanding one for ops
+
+    our community has a tendency to say "just go read the book / website /
+    manpage and you'll know the tool", which is a great way of bringing in the
+    people whose learning styles work like that, but quietly excludes
+    everybody else
+
+    Also, motivation: If just having these resources floating around the ether
+    was enough to bring all interested students into devops, we wouldn't be
+    having pipeline problems. 
+    
+    For really shy people scared of failure, peer
+    pressure and support might be needed to get them to step outside their
+    comfort zones into tech. Outgoing people, a group might be what it takes 
+    to keep it interesting...
+
 - Designed to be completely self-directed
 - Need lots of time and specific learning style
 
@@ -247,6 +297,19 @@ Program Structure
 
 .. note:: Emily
 
+    Balance school commitments, organizer bandwidth, and the need to teach a
+    LOT of stuff
+
+    started biweekly, went to weekly
+
+    Writing curriculum takes a LOT of time
+
+    Exercises open-ended, some students ran with them and others did bare
+    minimum
+
+    Typical lesson 2 related topics, one devvier and one opsier, ~4 x 20-min
+    blocks of talking punctuated by hands-on
+
 - Weekly meet ups about a specific topic
 - Weekly content planning meetings
 - Simple *exercises* each week
@@ -256,8 +319,6 @@ Program Structure
 .. figure:: _static/dobc.jpg
   :align: right
   :scale: 60%
-
-..
 
 - Communication
 
@@ -311,12 +372,17 @@ Learning from breaking
 .. note:: Emily:
 
   Yes most of us are self-taught but I've noticed that things I've learned from
-  others via mentorship are much easier to teach in person. Also, on the
+  others via mentorship are much easier to teach in person. 
+  
+  on the
   diversity note, having a *safe* place to play is extremely important because
   when someone's dealing with the issues that plague minorities in tech
   (tokenism, impostor syndrome, etc.) there are a lot more factors telling you
   "no don't risk breaking that, even if you might learn something" than there
   would be for a non-minority.
+
+  Braindump takes this further, with dedicated hardware and the more advanced
+  students walk through pulling wires sometimes
 
 - How did we learn these skills ourselves?
 
@@ -405,35 +471,33 @@ Feedback
 - Learn to be flexible
 - K.I.S.S. (Keep It Simple Stupid)
 
-Making your own DOBC
---------------------
+So, you want to start a bootcamp?
+---------------------------------
 
 .. note:: Emily
 
-- This sounds great, you want to start something like this?
-- DO IT!
+    be careful of your own time/resources and avoid burning out; remember that
+    everyone else is busy too and dropping the ball once or twice isn't the
+    end of the world if you pick it back up
 
-  - Even if you're not sure.
-  - Even if you don't know all the things yet.
-  - You'll learn fast.
+    Skills can be taught; enthusiasm can't.
+
 - Resources are everywhere
-
-  - Anyone who says they think it's cool
 - Offer bite-sized ways to contribute
 
-  - Speak for 15 minutes on your specialty?
-  - vs. be on a curriculum committee forever
-
-Lessons Learned
----------------
+  - Speak for 15 minutes on your specialty, vs. serve on a curriculum committee forever
 
 - Time management
 
-    - You're a sysadmin; automate yourself out of a job
-    - Calendar reminders for recurring tasks
-    - You wouldn't rewrite the same code; planning and bureaucratic overhead
-      are also reusable
-- Skills can be taught; enthusiasm can't.
+    - Automate yourself out of a job
+
+.. figure:: _static/automation.gif
+    :scale: 50%
+    :align: center 
+
+    
+
+.. note:: Image from Wikimedia Foundation, http://commons.wikimedia.org/wiki/File:Professor_Lucifer_Butts.gif
 
 Next Steps
 ==========
