@@ -19,10 +19,6 @@ rm -rf build/
 # Build slides 
 make slides
 
-# Delete non-slide content
-cd build/slides
-rm -f [a-zA-Z]*
-
 # Disable venv
 deactivate
 
