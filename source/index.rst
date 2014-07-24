@@ -185,9 +185,6 @@ Scaling problem
 DevOps Bootcamp
 ===============
 
-.. note:: picture of something on this slide, and speaker notes on topic
-    transition
-
 Expanding DevOps beyond the OSL...
 
 http://devopsbootcamp.osuosl.org
