@@ -83,17 +83,14 @@ Student Jobs
 ------------
 
 .. figure:: _static/waitress.jpg
-    :align: center
+    :align: right 
     :scale: 50%
 
 .. note:: Emily
     Also, more students TA than get to work at OSL/Helpdesk/BSG... this does
     *not* teach good software development, or any sysadminning
 
-.. note:: "Waitress taking an order" by photo taken by flickr user alan.light
-    - flickr. Licensed under Creative Commons Attribution 2.0 via Wikimedia
-      Commons -
-      http://commons.wikimedia.org/wiki/File:Waitress_taking_an_order.jpg#mediaviewer/File:Waitress_taking_an_order.jpg
+.. note:: photo by Judy Baxter, https://www.flickr.com/photos/judybaxter/14999803/
 
 *Finding experience on campus*
 
