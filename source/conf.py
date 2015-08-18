@@ -274,7 +274,7 @@ extensions += [
 slide_theme = 'single-level'
 #slide_levels = 3
 
-slide_footer = "DevOps for University Students | Lance Albertson, Emily Dunham  | @ramereth"
+#slide_footer = "DevOps for University Students | Lance Albertson | @ramereth"
 
 # Place custom static assets in the _static directory and uncomment
 # the following lines to include them
@@ -284,7 +284,10 @@ slide_footer = "DevOps for University Students | Lance Albertson, Emily Dunham  
 #     'custom_js': 'custom.js',
 # }
 
-slide_theme_options = { 'custom_js': 'ga.js' }
+slide_theme_options = {
+    'custom_css': 'custom.css',
+    'custom_js': 'ga.js'
+}
 
 # ----------------------------------------------
 

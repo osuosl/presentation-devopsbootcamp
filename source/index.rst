@@ -14,6 +14,7 @@ DevOps for University Students
 
   chefconf2014
   linuxfestnorthwest2014
+  linuxcon2015
   oscon2014
   proposal
   proposal_osbridge
