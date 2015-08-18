@@ -16,7 +16,6 @@ DevOps for University Students
 
 About me
 --------
-
 - OSU Open Source Lab Director
 - Systems Admin background
 - Been at OSL since 2007
@@ -24,8 +23,8 @@ About me
 
   - Virtualization (Ganeti/OpenStack)
   - Chef, CFengine, Puppet
-  - CentOS/Gentoo
   - Mentoring students
+  - Open source project hosting
 
 Session Overview
 ----------------
@@ -122,7 +121,7 @@ Scaling problem
 - Balancing FTE to Student ratios
 - A lot of time and resource is put in mentoring
 - Represent less than 1% of total OSU CS population
-- Budget constraints on hiring more students
+- Budget and staff constraints on hiring more students
 
 DevOps Bootcamp
 ===============
@@ -156,6 +155,7 @@ Making it work for the OSL and OSU .. and DevOps Bootcamp was born!
 
 - Teach basic system administration skills
 - Introduce FOSS development
+- Discuss modern technologies
 - Publicize all the content
 - Eventually integrate into EECS program
 
@@ -186,6 +186,8 @@ Tools
 - Vagrant
 
   - CentOS/Debian VMs
+
+- OpenStack
 - Github
 - Sphinx-doc and Read The Docs
 
@@ -260,9 +262,9 @@ Plans
 - Develop new curriculum in EECS program
 
   - Create a side track focused on DevOps and open source
-  - Integrate into eCampus program
-- Include outside speakers from the industry
-- Include contributions from external sources
+  - Integrate into eCampus EECS post-bac program
+- Invite more outside speakers from the industry
+- Invite more contributions from external sources
 
   - Because, FOSS!
 
