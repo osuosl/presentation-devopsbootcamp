@@ -7,7 +7,7 @@ DevOps for University Students
 :email: lance@osuosl.org
 :twitter: @ramereth
 
-*Attribution-ShareAlike CC BY-SA ©2014*
+*Attribution-ShareAlike CC BY-SA ©2014-2015*
 
 .. toctree::
   :hidden:
@@ -277,4 +277,4 @@ Questions?
 :devopsbootcamp: http://devopsbootcamp.osuosl.org
 :github: https://github.com/devopsbootcamp
 
-*Attribution-ShareAlike CC BY-SA ©2014*
+*Attribution-ShareAlike CC BY-SA ©2014-2015*
